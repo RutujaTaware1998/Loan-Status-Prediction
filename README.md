@@ -1,0 +1,2 @@
+# Loan-Status-Prediction
+When a customer applies for a loan at a company, the company needs to go through their previous records to determine whether the customer will be able to repay the loan or not. This work is done manually by the employees of the company. This process involves extensive statistical analysis. Now company wants to automate this process. Use statistical models to determine whether or not to grant the loan based on likelihood of the loan being repaid. 
